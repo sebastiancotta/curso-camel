@@ -21,6 +21,8 @@ hs_err_pid*
 
 ### Maven ###
 target/
+erro/
+saida/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -78,28 +80,3 @@ atlassian-ide-plugin.xml
 com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
-
-#backend
-core/target
-
-#front-end
-front-end/package-lock.json
-front-end/dist
-front-end/.tmp
-front-end/app/app.env.config.js
-front-end/app/flipbook/js/pdf_and_turn.min.js
-front-end/bower_components
-front-end/node_modules/
-/.m2/
-/.idea/
-/.gitlab/
-/integrajudicial-parent.iml
-/mgpe-parent.iml
-/pom.xml.releaseBackup
-
-core/.project
-/front-end/.tool-versions
-/front-end/.tool-versions
-Novo-CI-CD-judicial.drawio
-*.code-workspace
-front-end/debug.log
